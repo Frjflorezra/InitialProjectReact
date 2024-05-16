@@ -1,10 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-<<<<<<< HEAD
 import Component from './Component.js';
-
-=======
->>>>>>> 2f1f648395cdfcc3d9634961360ffcd78b7df2b3
 
 function App() {
   return (
@@ -12,11 +8,8 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-<<<<<<< HEAD
-          Hello world, I'm Francisco Florez
-=======
+
           Edit <code>src/App.js</code> and save to reload.
->>>>>>> 2f1f648395cdfcc3d9634961360ffcd78b7df2b3
         </p>
         <a
           className="App-link"
@@ -26,13 +19,8 @@ function App() {
         >
           Learn React
         </a>
-<<<<<<< HEAD
         <Component/>
       </header>
-      
-=======
-      </header>
->>>>>>> 2f1f648395cdfcc3d9634961360ffcd78b7df2b3
     </div>
   );
 }
